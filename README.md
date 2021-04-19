@@ -14,7 +14,7 @@
 #### We are Ready to test API. Let start the server
 `python manage.py runserver`
 
-The API can be accessed through curl or directly from the browser http://127.0.0.1:8000/
+The API can be accessed through curl or directly from the browser http://127.0.0.1:8000/ (used DRF in project)
 
 ### API to create user (POST)
 `http://127.0.0.1:8000/create/user`
